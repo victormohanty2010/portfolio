@@ -12,9 +12,9 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 # Project 1
 
-Linear Regression Project
+Linear Regression Project Test 1
 
-## Header 2
+## Project
 
 > This is a blockquote following a header.
 >
